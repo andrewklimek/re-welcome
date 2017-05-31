@@ -3,7 +3,7 @@ Contributors: andrewklimek
 Donate link: http://ambientsleepingpill.com/
 Tags: welcome, email, resend
 Requires at least: 2.8.0
-Tested up to: 4.4.3
+Tested up to: 4.7.5
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,8 @@ Nothing's been asked yet!
 
 == Changelog ==
 
+= 1.1.0 =
+* Add support for “Bulk Actions” (using new features in WordPress 4.7)
 = 1.0 =
 * Added backwords compatability for changes made in WordPress 4.3... but you should upgrade WordPress!
 = 0.3 =
